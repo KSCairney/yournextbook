@@ -1,0 +1,23 @@
+h3, h2, button, #recommended {
+  font-family: 'Cardo', serif;
+}
+
+h2 {
+  color: #237203;
+}
+
+button {
+  background-color: #e4e4e4;
+  border: 1px solid #000000;
+  margin: 10px 10px 10px 0px;
+  font-size: 1.2em;
+}
+
+#recommended {
+  font-size: 1.4em;
+}
+
+.bookCover {
+  width: 80%;
+  margin-top: 10px;
+}
